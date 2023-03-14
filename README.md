@@ -11,8 +11,8 @@ __________________________________________________
 
 ### Links
 
-- [Solução]()
-- [GitHub Pages]()
+- [Solução](https://github.com/flaviafigueredo/projeto-the-last-of-us)
+- [GitHub Pages](https://flaviafigueredo.github.io/projeto-the-last-of-us/)
 __________________________________________________
 
 ### Construído com
